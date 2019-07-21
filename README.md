@@ -11,6 +11,7 @@ hardware design cycle of a communication system and developing an embedded softw
 
 “EHA – Ethernet Hardware Encapsulator” provides a base for further project development – the fully functional verified 
 “store-and-forward” buffer as well as SoC environment that is used as a testbed for “Etherblade.net”.
+
 Please watch this video demonstrating working hardware developed during the course of the project:
 
-https://www.youtube.com/watch?v=F9DtJwAsErg
+[![Ethernet hardware encapsulator (xilinx 7 series fpga project)](https://img.youtube.com/vi/F9DtJwAsErg/0.jpg)](https://www.youtube.com/watch?v=F9DtJwAsErg "Ethernet hardware encapsulator (xilinx 7 series fpga project)")
