@@ -14,4 +14,4 @@ hardware design cycle of a communication system and developing an embedded softw
 
 Please watch this video demonstrating working hardware developed during the course of the project:
 
-[![Ethernet hardware encapsulator (xilinx 7 series fpga project)](https://img.youtube.com/vi/F9DtJwAsErg/0.jpg)](https://www.youtube.com/watch?v=F9DtJwAsErg "Ethernet hardware encapsulator (xilinx 7 series fpga project)")
+[![Ethernet hardware encapsulator (xilinx 7 series fpga project) v2](https://img.youtube.com/vi/F9DtJwAsErg/0.jpg)](https://www.youtube.com/watch?v=F9DtJwAsErg "Ethernet hardware encapsulator (xilinx 7 series fpga project) v2")
