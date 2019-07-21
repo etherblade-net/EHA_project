@@ -1,5 +1,5 @@
-# EHA_project_legacy
-“EHA – Ethernet Hardware Encapsulator” – legacy project:
+# EHA_project (LEGACY PROJECT)
+“EHA – Ethernet Hardware Encapsulator”:
 
 You might also be interested to see the predecessor of “Etherblade.net Ver1”  – a project named “EHA – Ethernet Hardware Encapsulator”.
 
